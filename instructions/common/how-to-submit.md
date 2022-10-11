@@ -7,7 +7,7 @@
      **Preview screenshot coming soon**
 
 ## Step 2: Complete the form; be sure to paste the URL you copied in the previous tutorial
-**NOTE:** In this screenshot, where the URL has "YOURGitHubUsernameHERE" should be _your_ GitHub username. 
+**NOTE:** In this screenshot, where the URL has "YOURGitHvxcvxcvxcvxcvxcvxubUsernameHERE" should be _your_ GitHub username. 
 
 ![Submit Assignment: Step 2](../assets/submit-assignment/step-2-squibbyV2-interface.png)
 
