@@ -1,0 +1,67 @@
+body {
+    color: black;
+    background-color: darkblue;
+    font-family: cursive;
+    text-align: center;
+}
+
+section {
+    margin: 4px;
+    padding: 4px;
+    border-style: groove;
+    border-radius: 2px;
+    border-color: pink;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: bold;
+    color: red;
+}
+
+ol.expList {
+    list-style-type: square;
+    list-style-position: outside;
+    background: #3399ff;
+    padding: 20px;
+}
+
+ul.skillsList {
+    background: purple;
+    padding: 20px;
+}
+
+[name="leave_message"] {
+    font-size: 12;
+    font-weight: bold;
+    color: white;
+}
+
+#name, #email, #message {
+    font-size: 14;
+    padding: 2px;
+    border-bottom-style: dotted;
+    border-radius: 2px;
+    border-color: yellow;
+}
+
+footer {
+    spacing: 4;
+    background-color: green;
+}
+
+@media screen and (min-width: 400px) {
+    body {
+        background-color: lightgreen;
+    }
+}
+
+@media screen and (min-width: 800px) {
+    body {
+        background-color: lavender;
+    }
+}
+
+
+/*
+Transform the "Messages" list items into styled blocks and customize the button(s)
+*/
