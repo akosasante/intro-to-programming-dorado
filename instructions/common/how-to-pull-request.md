@@ -22,7 +22,7 @@ Note: You may or may not see the yellow section that says "Compare & pull reques
 
 ## Step 2B: (If you don't see the yellow section in the above image) Click "New pull request"
 
-## Step 3B: Click "Create pull request"
+## Step 3B: Select your repository as the base repo, and the "main" branch as the base branch. Select your assignment branch as the "compare" branch. Click "Create pull request"
 
 ## Step 4B: Type a title and description
 
@@ -37,6 +37,10 @@ Note: You may or may not see the yellow section that says "Compare & pull reques
 ## Next Step
 
 Copy the URL to the pull request you just created and follow this tutorial for submitting your assignment: [View instructions](../common/how-to-submit.md)
+
+While the PR is open, you can `git push` new commits to it (for example, if your reviewer gives you feedback for your assignment), you should see them automatically show up in the PR.
+
+Once the assignment has been reviewed, you can click "Merge pull request" at the bottom. This will merge your assignment branch into the `main` branch in your repo.
 
 ---
 
