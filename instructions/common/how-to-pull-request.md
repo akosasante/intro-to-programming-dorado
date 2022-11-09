@@ -6,17 +6,25 @@
 
 ![Create Pull Request: Step 1](../assets/create-pull-request/step-1.jpg)
 
-## Step 2: Click "Compare and pull request"
+Note: You may or may not see the yellow section that says "Compare & pull request" on this page. This will usually show up if you have recently pushed a new branch to Github. It's okay if this part of the image does not match up with what you see in your repo, you will still be able to create a pull request from the "Pull Requests" tab.
+
+## Step 2A: (If you see the yellow section in the image below) Click "Compare and pull request"
 
 ![Create Pull Request: Step 2](../assets/create-pull-request/step-2.jpg)
 
-## Step 3: Type a title and description
+## Step 3A: Type a title and description
 
 ![Create Pull Request: Step 3](../assets/create-pull-request/step-3.jpg)
 
-## Step 4: Select the "Base" repository dropdown and choose your forked repository
+## Step 4A: Select the "Base" repository dropdown and choose your forked repository
 
 ![Create Pull Request: Step 4](../assets/create-pull-request/step-4.jpg)
+
+## Step 2B: (If you don't see the yellow section in the above image) Click "New pull request"
+
+## Step 3B: Click "Create pull request"
+
+## Step 4B: Type a title and description
 
 ## Step 5: Click "Create pull request"
 
